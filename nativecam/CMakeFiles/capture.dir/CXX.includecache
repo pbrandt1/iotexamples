@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/code/iotexamples/nativecam/capture.cc
+opencv2/opencv.hpp
+/data/code/iotexamples/nativecam/opencv2/opencv.hpp
+iostream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+time.h
+-
+string.h
+-
+stdio.h
+-
+

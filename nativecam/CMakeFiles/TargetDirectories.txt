@@ -1,0 +1,1 @@
+/data/code/iotexamples/nativecam/CMakeFiles/capture.dir

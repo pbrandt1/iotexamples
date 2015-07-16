@@ -1,0 +1,22 @@
+{
+  "name": "iotexamples",
+  "version": "1.0.0",
+  "description": "lame examples about networking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrandt1/iotexamples.git"
+  },
+  "author": "Peter Brandt <peter.m.brandt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbrandt1/iotexamples/issues"
+  },
+  "homepage": "https://github.com/pbrandt1/iotexamples#readme",
+  "dependencies": {
+    "mqtt": "^1.3.5"
+  }
+}
